@@ -12,3 +12,4 @@ ORDER BY goods.name;
 SELECT workers.*
 FROM workers
 ORDER BY workers.qualification, workers.passport_no DESC;
+
